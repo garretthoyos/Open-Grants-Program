@@ -57,6 +57,9 @@ We see Virtual Reality as the inevitable future of work. Happiness and fun at wo
 
 * Mockups/designs of any UI components
 
+Initial VR Concept: 2 hours
+https://www.youtube.com/watch?v=uEIsX7Gac_4
+
 * Data models / API specifications of the core functionality
 * An overview of the technology stack to be used
 
