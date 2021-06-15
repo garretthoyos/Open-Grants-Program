@@ -197,7 +197,7 @@ Milestone 1, 2, 3, 4, 5
 Education - Taking pieces that have already been built and designed by protocols/brands 
 
 1. We have created 3D Assets based off Polkadot's main website 2D designs. We will use these assets to teach principles to visual learners. 
-https://youtu.be/AQVGxz6iaH0
+
 
 This is acceptable form of education experienced via Youtube, however we suggest it is best to create augmented and virtual reality learning tools. Not only is this terrific for marketing purposes, users tend to share more, and spatial experiences are stored in our memory as real experiences. 
 
@@ -225,7 +225,14 @@ Milestone 1: Spatial Education Lessons: Polkadot 101
 * **FTE:**  1.32
 * **Costs:** $6,000 USD
 
+* Concept https://youtu.be/AQVGxz6iaH0
+
 * NEED TO UPDATE DETAILS OF MILESTONES
+* Why Polkadot
+* Web3 Foundation
+* Ambassador program visualized around the world
+* Spatial Audio Music
+* Concepts and designs taken from websites/protocols. i.e., work already completed by other teams and is public\open
 
 ### Milestone 2: Spatial Education Lessons: Kusama & Blockchain Interopability
 
@@ -235,7 +242,10 @@ Milestone 1: Spatial Education Lessons: Polkadot 101
 
 * Concept https://youtu.be/JV3z_NZQsMU
 
-* NEED TO UPDATE DETAILS OF MILESTONES
+*  NEED TO UPDATE DETAILS OF MILESTONES
+*  Kusama: The Canary in the Digital Coal Mine
+*  Innovation from Tesla Cybertruck visualized 
+*  Other amazing projects on Kusama visualized
 
 ### Milestone 3: Spatial Education Lessons: Teaching Startups how to raise money on Polkastarter
 
@@ -245,6 +255,8 @@ Milestone 1: Spatial Education Lessons: Polkadot 101
 * **Costs:** 6,000 USD
 
 * NEED TO UPDATE DETAILS OF MILESTONES
+* Polkastarter and DeFi
+
 
 ### Milestone 4: Spatial Education Lessons: NFTs & The Metaverse
 
