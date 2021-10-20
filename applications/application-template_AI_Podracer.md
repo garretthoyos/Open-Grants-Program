@@ -6,7 +6,7 @@
 
 * **Project Name:** CyberPunk CoinRacer
 * **Team Name:** Continuum Holdings LLC
-* **Payment Address:** BTC: bc1q8z42fr0ejwz9j49gr4r4yaq9kf2rd3y5n8gyrh
+* **Payment Address:** BTC: n/a 
 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
